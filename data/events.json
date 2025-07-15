@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Workshop PHPS",
+        "description": "Introduzione a PHP modernoS",
+        "date": "2025-07-15"
+    },
+    {
+        "id": 2,
+        "title": "Corso Avanzato di JavaScript",
+        "description": "Tecniche avanzate per sviluppatori esperti",
+        "date": "2025-08-20"
+    },
+    {
+        "id": 4,
+        "title": "DAJE ROMA DAJE",
+        "date": "2025-07-15",
+        "description": "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSIIIIIIIIIIIIIIIIIIIIIIIIIIIIUM"
+    },
+    {
+        "id": 5,
+        "title": "Sesso",
+        "date": "2025-08-10",
+        "description": "wdw"
+    }
+]

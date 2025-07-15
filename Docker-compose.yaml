@@ -1,0 +1,11 @@
+services:
+  web:
+    image: php:8.2-apache
+    container_name: gestione_eventi_web_php
+    ports:
+      - "8002:80"
+    volumes:
+      - ./:/var/www/html
+    environment:
+      - PHP_MEMORY_LIMIT=512M
+    restart: unless-stopped
